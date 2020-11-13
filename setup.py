@@ -11,8 +11,10 @@ setup(
   download_url = 'https://github.com/ritwiksarkar11/TOPSIS-Ritwik-101803624/archive/0.1.tar.gz',    
   keywords = ['TOPSIS', 'PYTHON', 'ASSIGNMENT'],  
   install_requires=[            
-          'validators',
-          'beautifulsoup4',
+          'numpy',
+          'scrapeasy',
+          'pandas',
+          
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      
