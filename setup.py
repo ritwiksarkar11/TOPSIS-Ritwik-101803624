@@ -7,7 +7,7 @@ setup(
   description = 'Topsis Assignment',   
   author = 'Ritwik Sarkar',                  
   author_email = 'rsarkar_be18@thapar.edu',      
-  url = 'https://github.com/user/reponame',   
+  url = 'https://github.com/ritwiksarkar11',   
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
   keywords = ['TOPSIS', 'PYTHON', 'ASSIGNMENT'],  
   install_requires=[            
