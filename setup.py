@@ -8,7 +8,7 @@ setup(
   author = 'Ritwik Sarkar',                  
   author_email = 'rsarkar_be18@thapar.edu',      
   url = 'https://github.com/ritwiksarkar11',   
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/ritwiksarkar11/TOPSIS-Ritwik-101803624/archive/0.1.tar.gz',    
   keywords = ['TOPSIS', 'PYTHON', 'ASSIGNMENT'],  
   install_requires=[            
           'validators',
